@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Sai Kumar
 
-<!--
-**emanisaikumar01/emanisaikumar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE student at **ICFAI University Hyderabad**
 
-Here are some ideas to get you started:
+🚀 Passionate about **Open Source, AI, and Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+* Python
+* JavaScript
+* HTML / CSS
+* Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+* Open Source Contribution
+* Large Codebase Navigation
+* Backend Development
+* Artificial Intelligence
+
+---
+
+## 🚀 Open Source Contributions
+
+* hiero-ledger / hiero-sdk-python
+* KevinCrrl / evillimiter-ng
+* wagtail / bakerydemo
+
+---
+
+## 📂 Featured Projects
+
+* AI Resume Analyzer
+* Portfolio Website
+* Weather App
+* Todo App
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/emanisaikumar01
