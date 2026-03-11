@@ -1,43 +1,98 @@
 # Hi 👋 I'm Sai Kumar
 
-🎓 B.Tech CSE student at **ICFAI University Hyderabad**
+🎓 B.Tech CSE Student at **ICFAI University Hyderabad**
+💻 Passionate about **Open Source, Artificial Intelligence, and Web Development**
+🚀 Currently preparing for **Google Summer of Code (GSoC)**
 
-🚀 Passionate about **Open Source, AI, and Web Development**
+---
+
+## 🔍 About Me
+
+* 🌱 Learning how to **contribute to large open-source codebases**
+* 🧠 Interested in **AI systems, backend development, and knowledge graphs**
+* 🛠 Exploring **Python-based open-source projects**
+* 🎯 Goal: Become a strong **open-source contributor and software engineer**
 
 ---
 
 ## 🔧 Tech Stack
 
+**Languages**
+
 * Python
 * JavaScript
-* HTML / CSS
-* Git & GitHub
+
+**Web Development**
+
+* HTML
+* CSS
+
+**Tools**
+
+* Git
+* GitHub
+* Linux
 
 ---
 
-## 🌱 Currently Learning
+## 🌍 Open Source Contributions
 
-* Open Source Contribution
-* Large Codebase Navigation
-* Backend Development
-* Artificial Intelligence
+### hiero-ledger / hiero-sdk-python
 
----
+* Contributed CI workflow improvements
+* Updated GitHub Actions runner configuration
 
-## 🚀 Open Source Contributions
+### KevinCrrl / evillimiter-ng
 
-* hiero-ledger / hiero-sdk-python
-* KevinCrrl / evillimiter-ng
-* wagtail / bakerydemo
+* Improved documentation
+* Added quick start example for users
+
+### wagtail / bakerydemo
+
+* Explored Django/Wagtail codebase to understand large project structure
 
 ---
 
 ## 📂 Featured Projects
 
-* AI Resume Analyzer
-* Portfolio Website
-* Weather App
-* Todo App
+### AI Resume Analyzer
+
+AI-powered tool that analyzes resumes and provides improvement suggestions.
+
+### Portfolio Website
+
+Personal portfolio showcasing projects, skills, and experience.
+
+### Weather App
+
+Simple weather application using JavaScript and APIs.
+
+### Todo App
+
+Task management application built with HTML, CSS, and JavaScript.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanisaikumar01\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanisaikumar01\&layout=compact)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=emanisaikumar01)
+
+---
+
+## 🎯 Current Focus
+
+* Contributing to **open source repositories**
+* Understanding **large codebases**
+* Improving **problem-solving and backend development**
+* Preparing for **Google Summer of Code**
 
 ---
 
