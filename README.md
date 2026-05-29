@@ -1,14 +1,13 @@
 # Hi, I'm Sai Kumar 👋
 
-🚀 GSoC 2026 Aspirant  
 💻 Open Source Contributor @ Oppia  
-🐍 Backend Developer (Python)
+🐍 Backend Developer 
 
 ---
 
 ## 🔥 Open Source Contributions
 
-### Oppia (GSoC 2026 Organization)
+### Oppia (GSoC Organization)
 - Fix #20377: Refactored validation tests into modular unit tests
 - Working on domain object validation system (#21970)
 - Improving backend test coverage and code quality
