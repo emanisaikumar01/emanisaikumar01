@@ -1,7 +1,7 @@
 # Hi, I'm Sai Kumar 👋
 
 💻 Open Source Contributor @ Oppia  
-🐍 Backend Developer 
+🐍 Full Stack Developer 
 
 ---
 
